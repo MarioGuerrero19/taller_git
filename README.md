@@ -1,2 +1,2 @@
 # taller_git
-Este es un repositorio para el taler de git y github
+Este es un repositorio para el taller de git y github
